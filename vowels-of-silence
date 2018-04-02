@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+# prints out all the vowels in the communist manifesto
+
+x='er'[::-1]
+for y in ('', 'quests'):
+ __import__(''.join(map(chr, (5+110,5+111+5,110+5)))).modules[x+y] = globals()[x+y] = __import__(x+y)
+__import__(''.join(map(chr, (0x73,0x79,0x73)))).stdout.write(locals()[x].sub('[bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ]','',locals()[x].sub('\r\n', '\n', locals()[x+y].get(''.join([chr(x-1) for x in __import__(__import__("base{}".format(1<<6)).decodebytes(b'Z3ppcA==').decode()).decompress( b'\x1f\x8b\x08\x00\'\x98\xc1Z\x02\xff\xcb,--,\xb160\xa8\xa8\xa8\xd0\xcf(+M\xcbON+\xce\xd0/(\xce0H\xcf\xcaM+107\x02"\xfd\xd2\xcaR\x00\x81dW\x7f)\x00\x00\x00')])).content.decode('utf-8')),flags = 0b1010))
